@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChineseCalendar", "ChineseCalendar\ChineseCalendar.csproj", "{781CE2BB-466D-46CD-8D88-6EA587156823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDateTimePicker", "MyDateTimePicker\MyDateTimePicker.csproj", "{A492D4C5-F53B-4049-9870-A1EA26AAF7F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMonthCalendar", "MyMonthCalendar\MyMonthCalendar.csproj", "{6DE7E763-3639-4A27-991C-95F2B9594CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{2758464A-229A-4D8E-998E-74B0243F733C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781CE2BB-466D-46CD-8D88-6EA587156823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781CE2BB-466D-46CD-8D88-6EA587156823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781CE2BB-466D-46CD-8D88-6EA587156823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781CE2BB-466D-46CD-8D88-6EA587156823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A492D4C5-F53B-4049-9870-A1EA26AAF7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A492D4C5-F53B-4049-9870-A1EA26AAF7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A492D4C5-F53B-4049-9870-A1EA26AAF7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A492D4C5-F53B-4049-9870-A1EA26AAF7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE7E763-3639-4A27-991C-95F2B9594CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE7E763-3639-4A27-991C-95F2B9594CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE7E763-3639-4A27-991C-95F2B9594CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE7E763-3639-4A27-991C-95F2B9594CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2758464A-229A-4D8E-998E-74B0243F733C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2758464A-229A-4D8E-998E-74B0243F733C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2758464A-229A-4D8E-998E-74B0243F733C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2758464A-229A-4D8E-998E-74B0243F733C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
