@@ -7,7 +7,7 @@ C# 本身没有提供农历的日期控件，因此在刚开始接触 C# 之后�
 名称                | 描述
 --------------------|----------------
 MyMonthCalendar     | 对应 C# 本身的 MonthCalendar
-MyDateTimePicker    | 对应 C# DateTimePicker
+MyDateTimePicker    | 对应 C# 本身的 DateTimePicker
 
 开发这样一款带有农历信息的日期选择控件，需要有一个处理农历的类，由于已经有很多人做了，就不再重复造轮子了。我选择的 ChineseCalendar 本身提供的信息如下：
 
